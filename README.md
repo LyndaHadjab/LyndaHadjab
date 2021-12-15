@@ -1,7 +1,12 @@
 <p align="center">
 <h1>👋🏽, I am Lynda. Nice to connect!</h2> 
 </p>
-
+  Full stack developer and student in Master of software engineering at the University of Paris (Paris 7). Among my interests:
+    <p><br> - New technologies with a particular interest in Cloud and Micro-Services architectures.
+    <p> - Distributed systems and distributed algorithms.
+    <p> - Cybersecurity, in particular cryptography and reverse engineering.
+    
+    
 ### Languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
