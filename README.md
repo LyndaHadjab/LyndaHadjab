@@ -52,6 +52,6 @@
 
 ### Stats 📈
 
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=LyndaHadjab&hide=stars&show_icons=true&theme=blueberry" />
+<img align="left" width="47%" height="345px" src="https://github-readme-stats.vercel.app/api?username=LyndaHadjab&hide=stars&show_icons=true&theme=blueberry" />
 
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyndaHadjab&layout=compact&theme=blueberry" />  
+<img align="left" width="47%" height="345px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyndaHadjab&layout=compact&theme=blueberry" />  
