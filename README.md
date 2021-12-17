@@ -1,7 +1,7 @@
 <p align="center">
 <h1>👋🏽, I am Lynda. Nice to connect!</h2> 
 </p>
-  Full stack developer and student in Master of software engineering at the University of Paris (Paris 7). Among my interests:
+  Full stack developer (java/Angular, php/Laravel) and student in Master of software engineering at the University of Paris (Paris 7). Among my interests:
     <p><br> - New technologies with a particular interest in Cloud and Micro-Services architectures.
     <p> - Distributed systems and distributed algorithms.
     <p> - Cybersecurity, in particular cryptography and reverse engineering.
