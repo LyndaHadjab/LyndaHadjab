@@ -1,5 +1,5 @@
 <p align="center">
-<h1>👋🏽, I am Lynda. Nice to connect!</h2> 
+<h1>👋🏽, Hi I am Lynda. Nice to connect!</h2> 
 </p>
   Full stack developer (java/Angular, php/Laravel) and student in Master of software engineering at the University of Paris (Paris 7). Among my interests:
     <p><br> - New technologies with a particular interest in Cloud and Micro-Services architectures.
@@ -9,15 +9,15 @@
     
 ### Languages
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3) 
-![C](https://img.shields.io/badge/C-hotpink.svg?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-hotpink.svg?style=for-the-badge&logo=++&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/JAVA-323330?style=for-the-badge&logo=java&logoColor=red)
 ![Kotlin](https://img.shields.io/badge/KOTLIN-323330?style=for-the-badge&logo=kotlin&logoColor=red)  
 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3) 
+![C](https://img.shields.io/badge/C-hotpink.svg?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-hotpink.svg?style=for-the-badge&logo=++&logoColor=white)
+      
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
