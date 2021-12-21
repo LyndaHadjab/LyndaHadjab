@@ -6,7 +6,12 @@
     <p> - Distributed systems and distributed algorithms.
     <p> - Cybersecurity, in particular cryptography and reverse engineering.
     
-    
+ <object data="https://github.com/LyndaHadjab/LyndaHadjab/files/7753047/document.4.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/LyndaHadjab/LyndaHadjab/files/7753047/document.4.pdf">
+        <p><a href="https://github.com/LyndaHadjab/LyndaHadjab/files/7753047/document.4.pdf">Download The Curriculum vitae</a>.</p>
+    </embed>
+</object> 
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
