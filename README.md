@@ -58,7 +58,7 @@
 
  <object data="https://github.com/LyndaHadjab/LyndaHadjab/files/7753047/document.4.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/LyndaHadjab/LyndaHadjab/files/7753047/document.4.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/LyndaHadjab/LyndaHadjab/files/7753047/document.4.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/LyndaHadjab/LyndaHadjab/files/7753047/document.4.pdf">Download The Curriculum vitae</a>.</p>
     </embed>
 </object>
 
