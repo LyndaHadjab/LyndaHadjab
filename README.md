@@ -6,12 +6,11 @@
     <p> - Distributed systems and distributed algorithms.
     <p> - Cybersecurity, in particular cryptography and reverse engineering.
     
- <object data="https://github.com/LyndaHadjab/LyndaHadjab/files/7757078/Lynda_Hadjab_CV.PDF" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/LyndaHadjab/LyndaHadjab/files/7757078/Lynda_Hadjab_CV.PDF">
-        <p><a href="https://github.com/LyndaHadjab/LyndaHadjab/files/7757078/Lynda_Hadjab_CV.PDF">Download The Curriculum vitae</a>.</p>
+ <object data="https://github.com/LyndaHadjab/LyndaHadjab/files/7771157/CV.de.Lynda.Hadjab.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/LyndaHadjab/LyndaHadjab/files/7771157/CV.de.Lynda.Hadjab.pdf">
+        <p><a href="https://github.com/LyndaHadjab/LyndaHadjab/files/7771157/CV.de.Lynda.Hadjab.pdf">Download The Curriculum vitae</a>.</p>
     </embed>
 </object>
-
 
 ### Languages
 
