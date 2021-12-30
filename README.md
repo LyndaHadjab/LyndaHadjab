@@ -12,6 +12,13 @@
     </embed>
 </object>
 
+   <object data="https://github.com/LyndaHadjab/LyndaHadjab/files/7792511/certificat_angular.pdf" type="application/pdf" width="700px" height="700px">
+      <embed src="https://github.com/LyndaHadjab/LyndaHadjab/files/7792511/certificat_angular.pdf">
+          <p><a href="https://github.com/LyndaHadjab/LyndaHadjab/files/7792511/certificat_angular.pdf">Certificate of completion of Angular training</a>.</p>
+      </embed>
+  </object>
+
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
