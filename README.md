@@ -17,6 +17,12 @@
           <p><a href="https://github.com/LyndaHadjab/LyndaHadjab/files/7792511/certificat_angular.pdf">Certificate of completion of Angular training</a>.</p>
       </embed>
   </object>
+  
+  <object data="https://github.com/LyndaHadjab/LyndaHadjab/files/9291295/ReactCertificate.pdf" type="application/pdf" width="700px" height="700px">
+      <embed src="https://github.com/LyndaHadjab/LyndaHadjab/files/9291295/ReactCertificate.pdf">
+          <p><a href="https://github.com/LyndaHadjab/LyndaHadjab/files/9291295/ReactCertificate.pdf">Certificate of completion of React training</a>.</p>
+      </embed>
+  </object>
 
 
 ### Languages
